@@ -52,7 +52,7 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devil Brand</title>
+    <title>!!⚜️YAMDHUD!!⚜️</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -90,9 +90,8 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️WARIOUR RULEX❤️</h1>
-        <h2>OWNR :: 
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</h2>
+        <h1 class="mb-3">☘️𝗬𝗔𝗠𝗗𝗛𝗨𝗗⚜️</h1>
+        <h2>࿆𝗬ᴀ͜͡ᴍ𝐃͢ʜᴜ͜͡ᴅ♱☠☝</h2>
     </header>
 
     <div class="container">
@@ -122,10 +121,9 @@ def send_message():
     </div>
 
     <footer class="footer">
-        <p>&copy; 2023 Devil Brand. All Rights Reserved.</p>
+        <p>&copy; 2023 YAMDHUD/⚜️. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
-        <p>Made with ♥ by <a href="https://github.com/DEVILXWD">
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</a></p>
+        <p>Made with ♥ by <a href="https://916399047686">࿆𝗬ᴀ͜͡ᴍ𝐃͢ʜᴜ͜͡ᴅ♱☠☝</a></p>
     </footer>
 
     <script>
